@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kanmani R</h1>
+<h1 align="center">Hello 👋, Thia is Kanmani Rajasekaran</h1>
 <h3 align="center"> Aspiring MCA graduate specializing in Web development with proﬁciency in Python Full Stack development. My knowledge in coding, debugging, and Web design to create efﬁcient and scalable software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar-jr&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar-jr" /> </p>
